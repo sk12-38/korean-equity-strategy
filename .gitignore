@@ -1,0 +1,34 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Raw data and generated tabular outputs
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.feather
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Rendered notebook exports
+*.html
+*.pdf
+
+# Generated output directories
+**/output/
+**/01_output/
+**/figures/
+**/plots/
+**/results/
+
+# Local/system files
+.DS_Store
+Thumbs.db
