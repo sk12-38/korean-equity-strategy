@@ -1,4 +1,4 @@
-# Korean Equity Strategy Lab
+# Korean Equity Strategy
 
 This repository archives Korean equity strategy research notebooks tested during the 2026-1 Quantifi main session.
 
